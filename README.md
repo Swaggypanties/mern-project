@@ -1,4 +1,4 @@
-# Mern project 
+# Mern project (sari-sari store)
 
 Shopping page 
 
